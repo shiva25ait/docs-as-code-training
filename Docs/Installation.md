@@ -13,6 +13,7 @@ Before starting the installation, make sure you have:
 - Administrator access
 - Application installation package
 - Required license or activation details
+- add more list
 
 ## 3. Installation
 
