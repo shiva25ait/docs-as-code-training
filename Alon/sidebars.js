@@ -1,14 +1,11 @@
 const sidebars = {
-  docsSidebar: [
-    'getting-started',
-    'installation',
-    'user-guide',
-    'administration',
-    'troubleshooting',
-    'submit-an-expense',
-    'cancel-an-expense',
+  tutorialSidebar: [
+    'intro',
+    'administration-guide/administration',
+    'getting-started/getting-started',
+    'installation-guide/installation',
+    'user-guide/user-guide',
   ],
 };
- 
-export default sidebars;
- 
+
+module.exports = sidebars;
