@@ -1,10 +1,10 @@
 const sidebars = {
   tutorialSidebar: [
     'intro',
-    'administration-guide/administration',
-    'getting-started/getting-started',
-    'installation-guide/installation',
-    'user-guide/user-guide',
+    'adminstratition-guide/administration',
+    'gettingstsated/getting-started',
+    'installation-guide/Installation',
+    'user guide/Userguide',
   ],
 };
 
